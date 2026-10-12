@@ -1,15 +1,17 @@
 [
   {
     "id": "1",
-    "title": "Introducción al desarrollo de aplicaciones móviles modernas",
-    "ch": "TechDev",
+    "title": "Mi video alojado en MEGA",
+    "ch": "Mi Canal",
     "cat": "Tutorial",
     "year": "2026",
-    "dur": "12:45",
-    "tags": ["Android", "Java", "Mobile"],
-    "desc": "Aprende los conceptos fundamentales para estructurar proyectos escalables.",
-    "views": 1420,
-    "created": 1718000000000
+    "dur": "10:00",
+    "tags": ["Mega", "Video"],
+    "desc": "Descripción del video.",
+    "views": 300,
+    "created": 1718000000000,
+    "img": "https://i.imgur.com/tu-portada.jpg",
+    "url": "https://mega.nz/file/tu-enlace-de-mega"
   },
   {
     "id": "2",
@@ -18,9 +20,11 @@
     "cat": "Adult Game",
     "year": "2026",
     "dur": "Ilimitado",
-    "tags": ["Android", "Java", "Mobile", "Adult Game"],
+    "tags": ["Mega", "Video"],
     "desc": "Aprende los conceptos fundamentales del sexo con la zorrita mas conocida de Minecraft",
-    "views": 1420,
-    "created": 1719000000000
+    "views": 3000,
+    "created": 1918000000000,
+    "img": "https://i.postimg.cc/Qtp3HBrJ/1000539242.jpg",
+    "url": "https://mega.nz/file/MnoChCpQ#S63JRkBV3kcc90w1aQnsEMjohfR6aaIHbbY-ieNnnmc"
   }
 ]
